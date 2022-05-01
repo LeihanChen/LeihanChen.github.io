@@ -59,7 +59,7 @@ twitter_username: # your Twitter handle
 linkedin_username: leihan-chen-a368b322b # your LinkedIn user name
 scholar_userid: # your Google Scholar ID
 orcid_id: # your ORCID ID
-medium_username: # your Medium username
+medium_username: chu-yu
 quora_username: # your Quora username
 publons_id: # your ID on Publons
 research_gate_profile: # your profile on ResearchGate
@@ -70,8 +70,9 @@ wikidata_id: # your wikidata id
 dblp_url: # your DBLP profile url
 stackoverflow_id: #your stackoverflow id
 
-contact_note: >
-  You can even add a little note about which of these is the best way to reach you.
+contact_note:
+# contact_note: >
+#   You can even add a little note about which of these is the best way to reach you.
 
 google_analytics: # your google-analytics ID (format: UA-XXXXXXXXX)
 google_site_verification: # your google-site-verification ID (Google Search Console)
@@ -99,7 +100,7 @@ disqus_shortname: leihan_chen # put your disqus shortname
 # you can display them in your blog by adding a link to the RSS feed.
 external_sources:
   - name: medium.com
-    rss_url: https://medium.com/@al-folio/feed
+    rss_url: https://medium.com/@chu-yu/feed
 
 # -----------------------------------------------------------------------------
 # Collections
