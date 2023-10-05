@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2015-10-22 15:59:00-0400
+date: 2022-03-07 10:00:00-0800
 inline: true
 ---
 
-A simple inline announcement.
+Joining [QCraft. AI](https://www.qcraft.ai/en) as a perception engineer.

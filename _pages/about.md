@@ -1,8 +1,8 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
-subtitle: Machine Learning Engineer & Freelancer & Poetry Enthusiast 
+subtitle: PhD Student at TMU & Freelancer & Poetry Enthusiast 
 
 profile:
   align: right
@@ -20,17 +20,13 @@ My given name is 磊涵 which indicates integrity and self-restraint.
 
 I have a pen name Chu Yu (楚餘).
 
-Geospatial Scientist & Engineer.
+PhD student at Toronto Metropolitan University.
 
-Amateur of Chinese poetry and literature.
+Previous Geospatial Scientist & Engineer.
+
+In love of poetry(mainly Chinese), soccer, swimming and more.
 
 Recently addicting into playing Go, learning Chan and writing Chinese traditional characters.
-
-Preferred Chinese Pre-modern Poet: Tao Yuanming(陶淵明), Li Shangyin(李商隱), Li Ho(李賀), Tan Xian(譚獻).
-
-Preferred Chinese Modern & Contemporary Poet: Yu Dafu(郁達夫), He Qifang(何其芳), Gu Cheng(顧城), Zhang Zhao(張棗)
-
-Preferred non-Chinese Poet: Rainer Maria Rilke, Paul Celan, Arthur Rimbaud, Stéphane Mallarmé.
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
